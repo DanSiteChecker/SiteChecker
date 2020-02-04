@@ -3,15 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e8c571d4-ad69-4b95-ad99-51c392ebe99f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,18 +157,38 @@
       <option name="presentableId" value="Default" />
       <updated>1580832816332</updated>
       <workItem from="1580832817645" duration="1405000" />
-      <workItem from="1580834602697" duration="592000" />
+      <workItem from="1580834602697" duration="5638000" />
     </task>
+    <task id="LOCAL-00001" summary="Authentication added.">
+      <created>1580835423690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580835423690</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Authentication added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Authentication added." />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="626" y="72" key="#Inspections" timestamp="1580838283291">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="626" y="72" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1580838283291" />
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580834014499">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1580834014499" />
+    <state x="391" y="0" key="CommitChangelistDialog2" timestamp="1580835422832">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="391" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580835422832" />
     <state x="549" y="155" key="FileChooserDialogImpl" timestamp="1580834148059">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -202,10 +213,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580833992543" />
-    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1580835304843">
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1580841099750">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580835304843" />
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580841099750" />
     <state x="815" y="145" key="search.everywhere.popup" timestamp="1580833154276">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
